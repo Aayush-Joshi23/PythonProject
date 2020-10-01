@@ -1,0 +1,2 @@
+n = float(input("Enter the number : "))
+print('The square root of ',n,' is ',n**0.5)
